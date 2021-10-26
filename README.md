@@ -66,7 +66,7 @@ Essa é uma aplicação que foi desenvolvida no Bootcamp Ignite da Rocketseat, v
 
 ```bash
 # Clone o projeto
-$ git clone https://github.com/heliton1988/rocketshoes.git
+$ git clone https://github.com/felipealvessi/ignite-reactjs-conceitos-do-react.git
 
 # Acesse a pasta do projeto
 $ cd ignite-reactjs-conceitos-do-react
